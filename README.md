@@ -75,3 +75,4 @@ INTERNET
 
 📄 Documentación completa
 El documento técnico completo con todos los apartados, tablas detalladas y análisis está disponible en:
+https://github.com/ygorlramos-cpu/Intermodular-Planificaci-n-y-administraci-n-de-redes/blob/9977864baff60787f55e7cb0fe85ebad6c14de71/FitLife%20-%20Red.pdf
