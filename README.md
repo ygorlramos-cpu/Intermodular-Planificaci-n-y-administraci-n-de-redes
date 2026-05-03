@@ -3,7 +3,7 @@
 
 Módulo: Planificación y Administración de Redes
 Proyecto: Sistema Informático — FitLife GYM
-Curso: 2024–2025
+Curso: 2025–2026
 
 
 📋 Descripción del proyecto
